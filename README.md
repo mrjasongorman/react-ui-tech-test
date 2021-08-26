@@ -4,6 +4,8 @@ Consume the JSON file provided at `localhost:3000/api.json` and generate a quest
 
 Visually generate something like the image below, using React. Google is allowed! :)
 
+As a plus add some styling, though not strictly necessary.
+
 ## Setup
 You should be able to `npm install && npm run start`
 
